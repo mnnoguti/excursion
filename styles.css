@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+    font-family: Verdana;
+}
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+h2 {
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+    text-align: center;
+}
+h3 {
+    color: gray;
+    font-size: 21px;
+    text-align: center;
+    font-weight: normal;
+}
+h4 {
+    color:aquamarine;
+    text-align: center;
+    font-size: 16px;
+}
+a:visited,a:link,a:hover,a:active{
+    color:aquamarine;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+video {
+    display: block;
+    margin: 0 auto;
+}
+footer h3{
+    text-align: right;
+    color: gray;
+
+}
